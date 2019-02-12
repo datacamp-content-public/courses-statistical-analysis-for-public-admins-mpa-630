@@ -1,5 +1,4 @@
-title: Statistical Analysis for Public Admins MPA 630
-description: Course description goes here.
-programming_language: r
+title: "Statistical Analysis for Public Admins MPA 630"
+description: "This course is for BYU MPA Students taking MPA 630 Statistical Analysis for Public Administrators. "
+programming_language: "r"
 from: "r-base-prod:v1.0.2"
-#from: "tidyverse-base-prod:v1.0.2"
